@@ -23,24 +23,24 @@ function fancyAlert(arg) {
 }
 ```  
 
-*italic text*
+*italic text*  
 _italic text with underscore_  
 
-**bold text**
+**bold text**  
 __ bold text with double underscore__
 
-*Best List
-*In the world
- *inner list
- *best
+*Best List  
+*In the world  
+ *inner list  
+ *best  
  
-1.Ordered list
-2.Next item
-3.Next item
- 1. inner item
- 2.inner item
+1.Ordered list  
+2.Next item  
+3.Next item  
+ 1. inner item  
+ 2.inner item  
  
->No dream is too big. No challange is too great.
+>No dream is too big. No challange is too great.  
 > Nothing we want for our future is beyond our reach.
 
 :moneybag: :mag: Emogi test 
